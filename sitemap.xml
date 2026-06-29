@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+  <url>
+    <loc>https://alanmikeo.github.io/lova-dating/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://alanmikeo.github.io/lova-dating/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://alanmikeo.github.io/lova-dating/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://alanmikeo.github.io/lova-dating/es/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://alanmikeo.github.io/lova-dating/pt-br/" />
+    <image:image>
+      <image:loc>https://alanmikeo.github.io/lova-dating/lova-imgs/card.png</image:loc>
+      <image:title>Lova dating app</image:title>
+      <image:caption>Promotional card for Lova with swipe, match, chat and real people.</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://alanmikeo.github.io/lova-dating/es/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://alanmikeo.github.io/lova-dating/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://alanmikeo.github.io/lova-dating/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://alanmikeo.github.io/lova-dating/es/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://alanmikeo.github.io/lova-dating/pt-br/" />
+    <image:image>
+      <image:loc>https://alanmikeo.github.io/lova-dating/lova-imgs/card.png</image:loc>
+      <image:title>Lova app de citas</image:title>
+      <image:caption>Card promocional de Lova con swipe, match, chat y personas reales.</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://alanmikeo.github.io/lova-dating/pt-br/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://alanmikeo.github.io/lova-dating/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://alanmikeo.github.io/lova-dating/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://alanmikeo.github.io/lova-dating/es/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://alanmikeo.github.io/lova-dating/pt-br/" />
+    <image:image>
+      <image:loc>https://alanmikeo.github.io/lova-dating/lova-imgs/card.png</image:loc>
+      <image:title>Lova app de namoro</image:title>
+      <image:caption>Card promocional do Lova com swipe, match, chat e pessoas reais.</image:caption>
+    </image:image>
+  </url>
+</urlset>
